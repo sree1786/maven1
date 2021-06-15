@@ -1,2 +1,2 @@
 #!/bin/bash
-cp target/JenkinsWar.war /var/lib/tomcat8/webapps/
+cp target/JenkinsWar.war /opt/tomcat/apache-tomcat-9.0.46/webapps
